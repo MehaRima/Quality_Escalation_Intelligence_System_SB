@@ -148,7 +148,7 @@ Possible improvements include:
 
 ---
 
-## Portfolio Positioning
+## Project fit
 
 This project demonstrates applied analytics for **quality systems, escalation management, operational governance, and decision support**.
 
